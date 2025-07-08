@@ -1,2 +1,2 @@
 file created to learn git and git hub
-Hi
+Hi, hello
